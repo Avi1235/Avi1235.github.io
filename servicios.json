@@ -1,0 +1,37 @@
+[
+    {
+        "Servicio": 101,
+        "nombre": "Juan perez",
+        "domicilio": "obregon",
+        "adeudo": 553
+    },
+
+    {   
+        "numero": 102,
+        "nombre": "Juan perez perez",
+        "domicilio": "El barrio chino",
+        "adeudo": 2349
+    },
+
+    {   
+        "numero": 103,
+        "nombre": "Gabriel Esparza",
+        "domicilio": "Covid-19",
+        "adeudo": 259
+    },
+
+    {   
+        "numero": 104,
+        "nombre": "Selene",
+        "domicilio": "Insurgentes",
+        "adeudo": 300
+    },
+
+    {   
+        "numero": 105,
+        "nombre": "Otro",
+        "domicilio": "4 de marzo",
+        "adeudo": 101
+    }
+    
+]
