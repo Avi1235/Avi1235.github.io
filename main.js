@@ -27,7 +27,7 @@ function buscarServicio(numero) {
     if(actual_JSON[i].servicio==numero)
     {
       const element = actual_JSON[i];
-      document.getElementById("Nombre").value = element[0].nombre; 
+      document.getElementById("Nombre").value = element.nombre; 
     }
   }
 }
