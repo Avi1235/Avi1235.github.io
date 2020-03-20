@@ -27,7 +27,7 @@ function buscarServicio(numero) {
   actual_Json.forEach(i => {
     if(i.servicio==numero)
     {
-      const element = actual_JSON[i];
+      const element = i;
       document.getElementById("Nombre").value = element.nombre; 
       encontro = true;
     }
