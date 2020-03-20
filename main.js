@@ -1,4 +1,4 @@
-var actual_JSON;
+var objetoJSON;
 
 function loadJSON(callback) {   
 
@@ -17,14 +17,14 @@ function loadJSON(callback) {
  function init() {
     loadJSON(function(response) {
      // Parse JSON string into object
-       actual_JSON = JSON.parse(response);
+     objetoJSON = JSON.parse(response);
     });
 }
 
 function buscarServicio(numero) {
   init();
   var encontro = false;
-  actual_JSON.forEach(i => {
+  objetoJSON.forEach(i => {
     if(i.servicio==numero)
     {
       const element = i;
