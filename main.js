@@ -24,7 +24,7 @@ function loadJSON(callback) {
 function buscarServicio(numero) {
   init();
   var encontro = false;
-  actual_Json.forEach(i => {
+  actual_JSON.forEach(i => {
     if(i.servicio==numero)
     {
       const element = i;
