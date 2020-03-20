@@ -21,7 +21,8 @@ function loadJSON(callback) {
     });
 }
 
-function buscarServicio(numero) {
+function buscarServicio() {
+  var numero = document.getElementById('servicio').value;
   init();
   var encontro = false;
   objetoJSON.forEach(i => {
