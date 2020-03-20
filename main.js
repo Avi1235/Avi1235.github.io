@@ -14,10 +14,10 @@ function loadJSON(callback) {
     xobj.send(null);  
  }
 
- function init() {
+ async function init() {
     loadJSON(function(response) {
      // Parse JSON string into object
-     objetoJSON = JSON.parse(response);
+     objetoJSON = await JSON.parse(response);
     });
 }
 
