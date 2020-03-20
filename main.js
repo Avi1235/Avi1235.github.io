@@ -1,3 +1,5 @@
+var actual_JSON;
+
 function loadJSON(callback) {   
 
     var xobj = new XMLHttpRequest();
@@ -15,8 +17,17 @@ function loadJSON(callback) {
  function init() {
     loadJSON(function(response) {
      // Parse JSON string into object
-       var actual_JSON = JSON.parse(response);
-       console.log(actual_JSON);
+       actual_JSON = JSON.parse(response);
     });
 }
 
+function buscarServicio(numero) {
+  init();
+  for (let i = 0; i < actual_JSON.length; i++) {
+    if(actual_JSON[i].servicio==numero)
+    {
+      const element = actual_JSON[i];
+      document.getElementById("Nombre").value = element[0].nombre; 
+    }
+  }
+}
