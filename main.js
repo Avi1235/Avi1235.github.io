@@ -23,11 +23,15 @@ function loadJSON(callback) {
 
 function buscarServicio(numero) {
   init();
-  for (let i = 0; i < actual_JSON.length; i++) {
-    if(actual_JSON[i].servicio==numero)
+  var encontro = false;
+  actual_Json.forEach(i => {
+    if(i.servicio==numero)
     {
       const element = actual_JSON[i];
       document.getElementById("Nombre").value = element.nombre; 
+      encontro = true;
     }
-  }
+  });
+  if(encontro==false)
+  alert("No se encuentra el servicio,Intentelo de nuevo");
 }
