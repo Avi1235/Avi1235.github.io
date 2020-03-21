@@ -18,16 +18,54 @@ function init() {
     loadJSON(function(response) {
      // Parse JSON string into object
      objetoJSON = JSON.parse(response);
-     return objetoJSON;
     });
 }
 
 function buscarServicio() {
   var numero = document.getElementById('servicio').value;
-  var data = init();
-  if(data==null)
-  alert("No se encuentra el servicio,Intentelo de nuevo");
+  init();
   var encontro = false;
+  objetoJSON.forEach(i => {
+    if(i.servicio==numero)
+    {
+      const element = i;
+      document.getElementById("Nombre").value = element.nombre; 
+      document.getElementById("Dom").value = element.domicilio; 
+      document.getElementById("Adeudo").value = element.adeudo; 
+      encontro = true;
+    }
+  });
+  if(encontro==false)
+  alert("No se encuentra el servicio,Intentelo de nuevo");
+}
+
+function Pagar() {
+  var numero = document.getElementById('Adeudo').value;
+
+  if(numero == "")
+  alert("Consulte un servicio primero para pagar");
+
+
+  var encontro = false;
+  data.forEach(i => {
+    if(i.servicio==numero)
+    {
+      const element = i;
+      document.getElementById("Nombre").value = element.nombre; 
+      encontro = true;
+    }
+  });
+  if(encontro==false)
+  alert("No se encuentra el servicio,Intentelo de nuevo");
+}
+
+//abonar
+function abonar() {
+  var numero = document.getElementById('Adeudo').value;
+
+  if(numero == "")
+  alert("Consulte un servicio primero para pagar");
+
   data.forEach(i => {
     if(i.servicio==numero)
     {
