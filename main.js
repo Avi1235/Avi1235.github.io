@@ -62,6 +62,7 @@ function sumar(cantidad){
   var suma = document.getElementById('suma').value;
   suma += cantidad;
   document.getElementById('suma').value = suma;
+  document.getElementById('suma').innerHTML = suma;
 }
 
 function abrirmodal(){
