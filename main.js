@@ -15,9 +15,9 @@ function loadJSON(callback) {
  }
 
 function init () {
-    loadJSON(async function (response) {
+    loadJSON(function (response) {
      // Parse JSON string into object
-     objetoJSON = await JSON.parse(response);
+     objetoJSON = JSON.parse(response);
     });
 }
 
