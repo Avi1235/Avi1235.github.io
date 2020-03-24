@@ -56,10 +56,11 @@ function abonar() {
     });
   }
         document.getElementById("Adeudo").value = numero;
-	var xhr = new XMLHttpRequest();
-  xhr.open("POST", "http://localhost:4000/json/create");
-  xhr.overrideMimeType("application/json");
-  xhr.send( JSON.stringify(objetoJSON) );
+	var http = new XMLHttpRequest();
+  http.open("POST", "http://localhost:4000/json/create");
+  http.setRequestHeader('Content-type', 'application/json');
+  console.log(JSON.stringify(objetoJSON));
+  http.send( JSON.stringify(objetoJSON) );
   document.getElementById('modalp').style.display='none';
 }
     
