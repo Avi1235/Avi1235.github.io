@@ -60,6 +60,7 @@ function abonar() {
         document.getElementById('modalp').style.display='none';
       }
     });
+  }
 }
     
 function sumar(cantidad){
