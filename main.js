@@ -46,7 +46,7 @@ function abonar() {
     alert("Ingrese un pago");
   }
   else{
-    var numero = document.getElementById('Adeudo').value;
+    var numero = parseInt(document.getElementById('Adeudo').value);
     numero -= pago;
     objetoJSON.forEach(i => {
       if(i.nombre==document.getElementById('Nombre').value)
@@ -55,14 +55,14 @@ function abonar() {
       }
     });
   }
-      document.getElementById("Adeudo").value = numero;
+      document.getElementById("Adeudo").value = numero.toString();
 }
     
 function sumar(cantidad){
   var suma = parseInt(document.getElementById('suma').value);
   suma += cantidad;
   document.getElementById('suma').value = suma;
-  document.getElementById('suma').innerHTML = suma;
+  document.getElementById('suma').innerHTML = suma.toString();
 }
 
 function abrirmodal(){
