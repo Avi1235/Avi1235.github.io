@@ -65,10 +65,10 @@ function abonar() {
 }
     
 function sumar(cantidad){
-  var suma = document.getElementById('suma').value;
-  suma += cantidad;
+  var suma = parseInt(document.getElementById('suma').value);
+  suma += parseInt(cantidad);
   document.getElementById('suma').value = suma;
-  document.getElementById('suma').innerHTML = suma;
+  document.getElementById('suma').innerHTML = suma.toString();
 }
 
 function abrirmodal(){
