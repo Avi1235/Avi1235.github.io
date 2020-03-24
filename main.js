@@ -41,7 +41,7 @@ function buscarServicio() {
 
 //abonar
 function abonar() {
-  console.log(document.getElementById("suma").value);
+  console.log(document.getElementById("suma").value.toString());
   var pago = document.getElementById("suma").value;
   if(pago==0){
     alert("Ingrese un pago");
