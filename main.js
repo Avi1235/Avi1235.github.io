@@ -41,7 +41,7 @@ function buscarServicio() {
 
 //abonar
 function abonar() {
-  var pago = document.getElementById('suma').value;
+  var pago = parseInt(document.getElementById('suma').value);
   if(pago==0){
     alert("Ingrese un pago");
   }
@@ -60,7 +60,7 @@ function abonar() {
     
 function sumar(cantidad){
   var suma = document.getElementById('suma').value;
-  suma += cantidad;
+  parseInt(suma) += cantidad;
   document.getElementById('suma').value = suma;
   document.getElementById('suma').innerHTML = suma;
 }
