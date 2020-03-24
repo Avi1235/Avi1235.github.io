@@ -41,21 +41,17 @@ function buscarServicio() {
 
 //abonar
 function abonar() {
-  console.log(document.getElementById("suma").value.toString());
   var pago = document.getElementById("suma").value;
   if(pago==0){
     alert("Ingrese un pago");
   }
   else{
     var numero =document.getElementById('Adeudo').value;
-    console.log(numero);
     numero -= pago;
-    console.log(numero);
     objetoJSON.forEach(i => {
       if(i.nombre==document.getElementById('Nombre').value)
       {
         i.adeudo = numero;
-        console.log(i.adeudo);
       }
     });
   }
@@ -69,10 +65,11 @@ function abonar() {
 }
     
 function sumar(cantidad){
-  var suma = parseInt(document.getElementById('suma').value);
-  suma += parseInt(cantidad);
+  var suma = document.getElementById('suma').value;
+  console.log(suma);
+  suma += cantidad;
   document.getElementById('suma').value = suma;
-  document.getElementById('suma').innerHTML = suma.toString();
+  document.getElementById('suma').innerHTML = suma;
 }
 
 function abrirmodal(){
