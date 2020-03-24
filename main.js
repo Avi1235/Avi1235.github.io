@@ -52,11 +52,13 @@ function abonar() {
       if(i.nombre==document.getElementById('Nombre').value)
       {
         i.adeudo = numero;
-    
       }
     });
   }
-      document.getElementById("Adeudo").value = numero;
+        document.getElementById("Adeudo").value = numero;
+	var xhr = new XMLHttpRequest();
+	xhr.open("POST", "http://localhost:4000/json/create");
+	xhr.send( JSON.stringify(objetoJSON) );
 }
     
 function sumar(cantidad){
