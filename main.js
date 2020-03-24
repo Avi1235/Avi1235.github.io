@@ -39,33 +39,6 @@ function buscarServicio() {
   alert("No se encuentra el servicio,Intentelo de nuevo");
 }
 
-function Pagar() {
-  var numero = document.getElementById('Adeudo').value;
-
-  if(numero == ""){
-    alert("Consulte un servicio primero para pagar");
-  }
-  else{
-
-    var pago = prompt("Ingresa una cantidad igual o mayor a tu deuda");
-
-  var encontro = false;
-
-  if (pago != null && pago > 0) {
-    numero -= pago;
-    objetoJSON.forEach(i => {
-      if(i.nombre==document.getElementById('Nombre').value)
-      {
-        i.adeudo = numero;
-      }
-    });
-    document.getElementById("Adeudo").value = numero;
-  }
-
-  if(encontro==false)
-    alert("Ingrese una cantidad valida");
-  }
-}
 
 //abonar
 function abonar() {
