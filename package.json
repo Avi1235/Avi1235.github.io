@@ -2,11 +2,7 @@
   "name": "Avi1235.github.io",
   "version": "1.0.0",
   "description": "",
-  "main": "main.js",
-  "dependencies": {
-    "file-system": "^2.2.2"
-  },
-  "devDependencies": {},
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Avi1235/Avi1235.github.io/issues"
   },
-  "homepage": "https://github.com/Avi1235/Avi1235.github.io#readme"
+  "homepage": "https://github.com/Avi1235/Avi1235.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-system": "^2.2.2"
+  }
 }
