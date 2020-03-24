@@ -14,8 +14,8 @@ function loadJSON(callback) {
      xobj.send(null);  
  }
 
-async function init() {
-    loadJSON(function asynchronous (response) {
+function init () {
+    loadJSON(async function (response) {
      // Parse JSON string into object
      objetoJSON = await JSON.parse(response);
     });
