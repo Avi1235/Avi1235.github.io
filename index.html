@@ -6,14 +6,14 @@
     <script src="main.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Comision.</title>
+    <title>Comision</title>
 </head>
 
 <body style="background-color: white;padding-top: 100px;" onload="init()">
     <div class="bs-component" style="background-color: black;border-radius: 7px;width: 60%;height: auto;margin: auto;border-style:solid;">
 
 
-        <div class="modal">
+        <div class="modal" id="modalp">
             <div class="modal-dialog" role="document">
               <div class="modal-content">
                 <div class="modal-header">
@@ -60,7 +60,7 @@
         </fieldset>
         <div style="padding-top: 20px;">
         <button type="button" class="btn btn-secondary" onclick="buscarServicio()">Consultar</button>
-        <button type="button" class="btn btn-secondary" onclick="document.getElementsByClassName('modal').style.display='block'">Pagar</button>
+        <button type="button" class="btn btn-secondary" onclick="document.getElementById('modalp').style.display='block'">Pagar</button>
         </div>
         </fieldset>
     </form>
