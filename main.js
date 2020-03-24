@@ -39,7 +39,6 @@ function buscarServicio() {
   alert("No se encuentra el servicio,Intentelo de nuevo");
 }
 
-
 //abonar
 function abonar() {
   var numero = document.getElementById('Adeudo').value;
