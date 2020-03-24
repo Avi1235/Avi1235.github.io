@@ -9,7 +9,7 @@
     <title>Comision</title>
     <style>
     img:hover {
-      box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+      box-shadow: 0 0 2px 4px rgba(0, 140, 186, 0.5);
     }</style>
 </head>
 
@@ -27,14 +27,15 @@
                   </button>
                 </div>
                 <div class="modal-body">
-                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 150px;" src="img/bill_20.jpg" alt="Card image">
-                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 150px;" src="img/bill_50.jpg" alt="Card image">
-                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 150px;" src="img/bill_100.jpg" alt="Card image">
-                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 150px;" src="img/bill_200.jpg" alt="Card image">
-                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 5px;width: 150px;" src="img/bill_500.jpg" alt="Card image">
+                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 7px;width: 200px;" src="img/bill_20.jpg" alt="Card image" onclick="sumar(20)">
+                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 7px;width: 200px;" src="img/bill_50.jpg" alt="Card image" onclick="sumar(50)">
+                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 7px;width: 200px;" src="img/bill_100.jpg" alt="Card image" onclick="sumar(100)">
+                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 7px;width: 200px;" src="img/bill_200.jpg" alt="Card image" onclick="sumar(200)">
+                  <img style="  border: 1px solid #ddd;border-radius: 4px;padding: 7px;width: 200px;" src="img/bill_500.jpg" alt="Card image" onclick="sumar(500)">
                 </div>
+                <label id="suma" value="0">0</label>
                 <div class="modal-footer">
-                  <button type="button" class="btn btn-primary">Save changes</button>
+                  <button type="button" class="btn btn-primary" onclick="abonar()">Pagar</button>
                   <button onclick="document.getElementById('modalp').style.display='none'" type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                 </div>
               </div>
@@ -68,7 +69,8 @@
         </fieldset>
         <div style="padding-top: 20px;">
         <button type="button" class="btn btn-secondary" onclick="buscarServicio()">Consultar</button>
-        <button type="button" class="btn btn-secondary" onclick="abonar()">Pagar</button>
+        <button type="button" class="btn btn-secondary" onclick="abrirmodal()">Pagar</button>
+        <button type="button" class="btn btn-secondary" onclick="window.location.reload();">cerrar Consulta</button>
         </div>
         </fieldset>
     </form>

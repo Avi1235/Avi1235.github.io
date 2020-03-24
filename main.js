@@ -41,27 +41,39 @@ function buscarServicio() {
 
 //abonar
 function abonar() {
+  var pago = document.getElementById('suma').value;
+  if(pago==0){
+    alert("Ingrese un pago");
+  }
+  else{
+    var numero = document.getElementById('Adeudo').value;
+    numero -= pago;
+    objetoJSON.forEach(i => {
+      if(i.nombre==document.getElementById('Nombre').value)
+      {
+        i.adeudo = numero;
+      }
+    });
+  }
+      document.getElementById("Adeudo").value = numero;
+}
+    
+
+function sumar(cantidad){
+  var suma = document.getElementById('suma').value;
+  suma += cantidad;
+  document.getElementById('suma').value = suma;
+}
+
+
+function abrirmodal(){
   var numero = document.getElementById('Adeudo').value;
 
   if(numero == ""){
     alert("Consulte un servicio primero para pagar");
   }
-  else{
-    document.getElementById('modalp').style.display='block'
-
-    if (abono != null) {
-      numero -= abono;
-      objetoJSON.forEach(i => {
-        if(i.nombre==document.getElementById('Nombre').value)
-        {
-          i.adeudo = numero;
-        }
-      });
-      document.getElementById("Adeudo").value = numero;
-    }
-    
-
-  if(encontro==false)
-    alert("No se encuentra el servicio,Intentelo de nuevo");
-  }
+  else if(numero==0)
+  alert("No tiene deuda de servicio");
+  else
+    document.getElementById('modalp').style.display='block';
 }
