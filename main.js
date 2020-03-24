@@ -47,7 +47,7 @@ function abonar() {
     alert("Consulte un servicio primero para pagar");
   }
   else{
-    var abono = prompt("Ingresa valor a abonar");
+    document.getElementById('modalp').style.display='block'
 
     if (abono != null) {
       numero -= abono;
