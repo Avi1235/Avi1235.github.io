@@ -58,13 +58,11 @@ function abonar() {
       document.getElementById("Adeudo").value = numero;
 }
     
-
 function sumar(cantidad){
   var suma = document.getElementById('suma').value;
   suma += cantidad;
   document.getElementById('suma').value = suma;
 }
-
 
 function abrirmodal(){
   var numero = document.getElementById('Adeudo').value;
