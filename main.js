@@ -51,7 +51,7 @@ function abonar() {
     objetoJSON.forEach(i => {
       if(i.nombre==document.getElementById('Nombre').value)
       {
-        var obj;
+        var obj = [];
         i.adeudo = numero;
         var http = new XMLHttpRequest();
         http.open("POST", "http://localhost:4000/json/create");
