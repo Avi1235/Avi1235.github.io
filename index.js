@@ -1,4 +1,7 @@
+const FileSystem = require("fs");
 var objetoJSON;
+
+
 
 function loadJSON(callback) {   
 
@@ -52,6 +55,9 @@ function abonar() {
       if(i.nombre==document.getElementById('Nombre').value)
       {
         i.adeudo = numero;
+        FileSystem.writeFile('servicios.json', JSON.stringify(i), (err) => {
+          if (e) throw e;
+        });
       }
     });
   }
