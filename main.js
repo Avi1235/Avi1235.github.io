@@ -59,7 +59,7 @@ function abonar() {
 	var xhr = new XMLHttpRequest();
   xhr.open("POST", "http://localhost:4000/json/create");
   xhr.overrideMimeType("application/json");
-	xhr.send( JSON.stringify(objetoJSON) );
+	xhr.send( objetoJSON );
 }
     
 function sumar(cantidad){
