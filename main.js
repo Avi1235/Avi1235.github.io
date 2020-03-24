@@ -41,25 +41,29 @@ function buscarServicio() {
 
 //abonar
 function abonar() {
-  var pago = parseInt(document.getElementById('suma').value);
+  var pago = document.getElementById('suma').value;
+  console.log(pago);
   if(pago==0){
     alert("Ingrese un pago");
   }
   else{
-    var numero = parseInt(document.getElementById('Adeudo').value);
+    var numero =document.getElementById('Adeudo').value;
+    console.log(numero);
     numero -= pago;
+    console.log(numero);
     objetoJSON.forEach(i => {
       if(i.nombre==document.getElementById('Nombre').value)
       {
         i.adeudo = numero;
+        console.log(i.adeudo);
       }
     });
   }
         document.getElementById("Adeudo").value = numero;
 	var http = new XMLHttpRequest();
   http.open("POST", "http://localhost:4000/json/create");
+  http.setRequestHeader('X-PINGOTHER', 'pingpong');
   http.setRequestHeader('Content-type', 'application/json');
-  console.log(JSON.stringify(objetoJSON));
   http.send( JSON.stringify(objetoJSON) );
   document.getElementById('modalp').style.display='none';
 }
