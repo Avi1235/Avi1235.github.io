@@ -57,7 +57,8 @@ function abonar() {
   }
         document.getElementById("Adeudo").value = numero;
 	var xhr = new XMLHttpRequest();
-	xhr.open("POST", "http://localhost:4000/json/create");
+  xhr.open("POST", "http://localhost:4000/json/create");
+  xhr.overrideMimeType("application/json");
 	xhr.send( JSON.stringify(objetoJSON) );
 }
     
