@@ -55,6 +55,7 @@ function abonar() {
         var http = new XMLHttpRequest();
         http.open("POST", "http://localhost:4000/json/create");
         http.setRequestHeader('Content-type', 'application/json');
+        console.log( JSON.stringify(i.servicio,i.adeudo) )
         http.send( JSON.stringify(i.servicio,i.adeudo) );
         document.getElementById("Adeudo").value = numero;
         document.getElementById('modalp').style.display='none';
