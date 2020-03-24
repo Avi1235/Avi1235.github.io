@@ -59,8 +59,8 @@ function abonar() {
 }
     
 function sumar(cantidad){
-  var suma = document.getElementById('suma').value;
-  parseInt(suma) += cantidad;
+  var suma = parseInt(document.getElementById('suma').value);
+  suma += cantidad;
   document.getElementById('suma').value = suma;
   document.getElementById('suma').innerHTML = suma;
 }
