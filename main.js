@@ -4,20 +4,20 @@ function loadJSON(callback) {
 
     var xobj = new XMLHttpRequest();
         xobj.overrideMimeType("application/json");
-    xobj.open('GET', 'servicios.json', true); // Replace 'my_data' with the path to your file
+     xobj.open('GET', 'servicios.json', true); // Replace 'my_data' with the path to your file
     xobj.onreadystatechange = function () {
           if (xobj.readyState == 4 && xobj.status == "200") {
             // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
             callback(xobj.responseText);
           }
     };
-    xobj.send(null);  
+     xobj.send(null);  
  }
 
 function init() {
-    loadJSON(function(response) {
+    loadJSON(function asynchronous (response) {
      // Parse JSON string into object
-     objetoJSON = JSON.parse(response);
+     objetoJSON = await JSON.parse(response);
     });
 }
 
@@ -42,38 +42,54 @@ function buscarServicio() {
 function Pagar() {
   var numero = document.getElementById('Adeudo').value;
 
-  if(numero == "")
-  alert("Consulte un servicio primero para pagar");
+  if(numero == ""){
+    alert("Consulte un servicio primero para pagar");
+  }
+  else{
 
+    var pago = prompt("Ingresa una cantidad igual o mayor a tu deuda");
 
   var encontro = false;
-  data.forEach(i => {
-    if(i.servicio==numero)
-    {
-      const element = i;
-      document.getElementById("Nombre").value = element.nombre; 
-      encontro = true;
-    }
-  });
+
+  if (pago != null && pago > 0) {
+    numero -= pago;
+    objetoJSON.forEach(i => {
+      if(i.nombre==document.getElementById('Nombre').value)
+      {
+        i.adeudo = numero;
+      }
+    });
+    document.getElementById("Adeudo").value = numero;
+  }
+
   if(encontro==false)
-  alert("No se encuentra el servicio,Intentelo de nuevo");
+    alert("Ingrese una cantidad valida");
+  }
 }
 
 //abonar
 function abonar() {
   var numero = document.getElementById('Adeudo').value;
 
-  if(numero == "")
-  alert("Consulte un servicio primero para pagar");
+  if(numero == ""){
+    alert("Consulte un servicio primero para pagar");
+  }
+  else{
+    var abono = prompt("Ingresa valor a abonar");
 
-  data.forEach(i => {
-    if(i.servicio==numero)
-    {
-      const element = i;
-      document.getElementById("Nombre").value = element.nombre; 
-      encontro = true;
+    if (abono != null) {
+      numero -= abono;
+      objetoJSON.forEach(i => {
+        if(i.nombre==document.getElementById('Nombre').value)
+        {
+          i.adeudo = numero;
+        }
+      });
+      document.getElementById("Adeudo").value = numero;
     }
-  });
+    
+
   if(encontro==false)
-  alert("No se encuentra el servicio,Intentelo de nuevo");
+    alert("No se encuentra el servicio,Intentelo de nuevo");
+  }
 }
