@@ -59,7 +59,8 @@ function abonar() {
 	var xhr = new XMLHttpRequest();
   xhr.open("POST", "http://localhost:4000/json/create");
   xhr.overrideMimeType("application/json");
-	xhr.send( objetoJSON );
+  xhr.send( objetoJSON );
+  document.getElementById('modalp').style.display='none';
 }
     
 function sumar(cantidad){
