@@ -48,6 +48,13 @@ function abonar() {
   else{
     var numero =document.getElementById('Adeudo').value;
     numero -= pago;
+    if(numero <= -101){
+      numero +=100;
+      alert("Te sobran $100 el resto se abonara para tu proximo servicio ")
+    }
+    else{
+      alert("El sobrante se abonara para tu proximo servicio")
+    }
     objetoJSON.forEach(i => {
       if(i.nombre==document.getElementById('Nombre').value)
       {
@@ -63,6 +70,7 @@ function abonar() {
         http.send( JSON.stringify( data ));
         document.getElementById("Adeudo").value = numero;
         document.getElementById('modalp').style.display='none';
+        alert("Gracias por abonar, Por favor cierra la consulta")
       }
     });
   }
