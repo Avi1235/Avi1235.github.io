@@ -54,11 +54,11 @@ function abonar() {
         var obj = [];
         i.adeudo = numero;
         var http = new XMLHttpRequest();
-        http.open("POST", "http://localhost:4000/json/create");
-        http.setRequestHeader('Content-type', 'application/json');
         obj.push(i.servicio);
         obj.push(i.adeudo);
         console.log(obj)
+        http.open("post", "http://localhost:4000/json/create");
+        http.setRequestHeader('Content-type', 'application/json');
         http.send( obj );
         document.getElementById("Adeudo").value = numero;
         document.getElementById('modalp').style.display='none';
