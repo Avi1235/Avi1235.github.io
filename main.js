@@ -52,7 +52,7 @@ function abonar() {
       numero +=100;
       alert("Te sobran $100 el resto se abonara para tu proximo servicio ")
     }
-    else{
+    else if(numero>0){
       alert("El sobrante se abonara para tu proximo servicio")
     }
     objetoJSON.forEach(i => {
