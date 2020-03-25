@@ -70,7 +70,7 @@ function abonar() {
         http.send( JSON.stringify( data ));
         document.getElementById("Adeudo").value = numero;
         document.getElementById('modalp').style.display='none';
-        alert("Gracias por abonar, Por favor cierra la consulta")
+        alert("Gracias por abonar, Cierra la consulta")
       }
     });
   }
