@@ -57,8 +57,9 @@ function abonar() {
         obj.push(i.servicio);
         obj.push(i.adeudo);
         console.log(obj)
-        http.open("post", "http://localhost:4000/json/create");
+        http.open("Post", "http://localhost:4000/json/create");
         http.setRequestHeader('Content-type', 'application/json');
+        http.setRequestHeader('"Access-Control-Allow-Origin', 'http://localhost:4000/json/create');
         http.send( obj );
         document.getElementById("Adeudo").value = numero;
         document.getElementById('modalp').style.display='none';
