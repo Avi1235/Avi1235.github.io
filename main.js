@@ -71,6 +71,7 @@ function abonar() {
         document.getElementById("Adeudo").value = numero;
         document.getElementById('modalp').style.display='none';
         alert("Gracias por abonar.")
+        init();
       }
     });
   }
