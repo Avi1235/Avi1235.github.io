@@ -53,8 +53,8 @@ function abonar() {
       {
         i.adeudo = numero;
         var data = new FormData();
-        data.append('servicio', i.servicio);
-        data.append('adeudo', i.adeudo);
+        data.append('servicio',String(i.servicio) );
+        data.append('adeudo', String(i.adeudo) );
         console.log(data);
         var http = new XMLHttpRequest();
         http.open("Post", "http://localhost:4000/json/create");
