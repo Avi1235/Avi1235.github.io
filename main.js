@@ -51,15 +51,12 @@ function abonar() {
     objetoJSON.forEach(i => {
       if(i.nombre==document.getElementById('Nombre').value)
       {
-        var obj = [];
         i.adeudo = numero;
+        console.log( JSON.stringify({"servicio": i.servicio, "adeudo":i.adeudo}) );
         var http = new XMLHttpRequest();
-        obj.push(i.servicio);
-        obj.push(i.adeudo);
-        console.log(obj)
         http.open("Post", "http://localhost:4000/json/create");
         http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-        http.send( obj );
+        http.send( JSON.stringify({"servicio": i.servicio, "adeudo":i.adeudo}) );
         document.getElementById("Adeudo").value = numero;
         document.getElementById('modalp').style.display='none';
       }
