@@ -52,13 +52,13 @@ function abonar() {
       if(i.nombre==document.getElementById('Nombre').value)
       {
         i.adeudo = numero;
-        var obj = [];
-        obj.push(i.servicio);
-        obj.push(i.adeudo);
+        var data = new FormData();
+        data.append('servicio', i.servicio);
+        data.append('adeudo', i.adeudo);
         var http = new XMLHttpRequest();
         http.open("Post", "http://localhost:4000/json/create");
         http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-        http.send( obj );
+        http.send( data );
         document.getElementById("Adeudo").value = numero;
         document.getElementById('modalp').style.display='none';
       }
