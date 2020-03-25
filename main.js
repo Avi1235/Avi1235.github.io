@@ -55,7 +55,7 @@ function abonar() {
         var data = new FormData();
         data.append('servicio',String(i.servicio) );
         data.append('adeudo', String(i.adeudo) );
-        console.log(data);
+        console.log(data.servicio);
         var http = new XMLHttpRequest();
         http.open("Post", "http://localhost:4000/json/create");
         http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
