@@ -84,5 +84,6 @@ function abrirmodal(){
   else if(numero<=0)
   alert("No tiene deuda de servicio");
   else
+    document.getElementById('suma').value = 0;
     document.getElementById('modalp').style.display='block';
 }
