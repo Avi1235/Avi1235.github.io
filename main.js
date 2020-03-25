@@ -4,7 +4,7 @@ function loadJSON(callback) {
 
     var xobj = new XMLHttpRequest();
         xobj.overrideMimeType("application/json");
-     xobj.open('GET', 'http://c78806f0.ngrok.io/json', true); // Replace 'my_data' with the path to your file
+     xobj.open('GET', 'https://c78806f0.ngrok.io/json', true); // Replace 'my_data' with the path to your file
     xobj.onreadystatechange = function () {
           if (xobj.readyState == 4 && xobj.status == "200") {
             // Required use of an anonymous callback as .open will NOT return a value but simply returns undefined in asynchronous mode
@@ -65,7 +65,7 @@ function abonar() {
 	}
 	console.log( JSON.stringify( data ));
         var http = new XMLHttpRequest();
-        http.open("Post", "http://c78806f0.ngrok.io/json/create");
+        http.open("Post", "https://c78806f0.ngrok.io/json/create");
         http.setRequestHeader('Content-Type', 'application/json;charset=UTF-8');
         http.send( JSON.stringify( data ));
         document.getElementById("Adeudo").value = numero;
