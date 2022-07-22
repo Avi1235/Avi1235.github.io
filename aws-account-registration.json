@@ -1,15 +1,16 @@
 {
   "SpinnakerAccounts": [
     {
-      "AccountId": "12345678901",
+      "AccountId": "439114917687",
       "SpinnakerAccountName": "test-3",
       "Regions": [
-        "us-west-2"
+        "us-west-2",
+        "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda", "ec2"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     }
