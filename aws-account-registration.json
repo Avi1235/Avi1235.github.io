@@ -8,7 +8,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "lambda"
       ],
