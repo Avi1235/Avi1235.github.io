@@ -21,7 +21,7 @@
         "us-west-2",
         "us-west-1"
       ],
-      "SpinnakerStatus": "ACTIVE,
+      "SpinnakerStatus": "ACTIVE",
       "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "lambda"
