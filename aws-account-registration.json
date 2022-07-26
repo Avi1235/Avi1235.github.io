@@ -8,7 +8,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -22,7 +22,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -37,7 +37,7 @@
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -50,7 +50,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -63,7 +63,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -76,7 +76,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -89,7 +89,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -102,7 +102,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -115,7 +115,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -128,7 +128,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -141,7 +141,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -154,7 +154,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -167,7 +167,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -180,7 +180,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -193,7 +193,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -206,7 +206,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -219,7 +219,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -232,7 +232,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -246,7 +246,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -260,7 +260,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -275,7 +275,7 @@
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -288,7 +288,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -301,7 +301,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -314,7 +314,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -327,7 +327,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -340,7 +340,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -353,7 +353,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -366,7 +366,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -379,7 +379,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -392,7 +392,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -405,7 +405,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -418,7 +418,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -431,7 +431,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -444,7 +444,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -457,7 +457,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -470,7 +470,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "lambda"
       ],
@@ -484,7 +484,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -498,7 +498,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -513,7 +513,7 @@
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -526,7 +526,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -539,7 +539,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -552,7 +552,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -565,7 +565,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -578,7 +578,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -591,7 +591,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -604,7 +604,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -617,7 +617,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -630,7 +630,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -643,7 +643,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -656,7 +656,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -669,7 +669,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -682,7 +682,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -695,7 +695,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -708,7 +708,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -722,7 +722,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -736,7 +736,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -751,7 +751,7 @@
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -764,7 +764,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -777,7 +777,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -790,7 +790,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -803,7 +803,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -816,7 +816,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -829,7 +829,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -842,7 +842,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -855,7 +855,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -868,7 +868,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -881,7 +881,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -894,7 +894,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -907,7 +907,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -920,7 +920,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -933,7 +933,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -946,7 +946,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -960,7 +960,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -974,7 +974,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -989,7 +989,7 @@
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1002,7 +1002,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1015,7 +1015,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1028,7 +1028,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1041,7 +1041,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1054,7 +1054,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1067,7 +1067,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1080,7 +1080,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1093,7 +1093,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1106,7 +1106,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1119,7 +1119,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1132,7 +1132,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1145,7 +1145,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1158,7 +1158,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1171,7 +1171,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1184,7 +1184,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1197,7 +1197,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1211,7 +1211,7 @@
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1226,7 +1226,7 @@
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1239,7 +1239,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1252,7 +1252,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1265,7 +1265,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1278,7 +1278,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1291,7 +1291,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1304,7 +1304,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1317,7 +1317,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1330,7 +1330,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1343,7 +1343,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1356,7 +1356,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1369,7 +1369,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1382,7 +1382,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1395,7 +1395,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1408,7 +1408,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1421,7 +1421,7 @@
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
