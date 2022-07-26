@@ -13,6 +13,35 @@
         "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
+    },
+    {
+      "AccountId": "439114917687",
+      "SpinnakerAccountName": "test-4",
+      "Regions": [
+        "us-west-2",
+        "us-west-1"
+      ],
+      "SpinnakerStatus": "ACTIVE,
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerProviders": [
+        "lambda"
+      ],
+      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
+    },
+    {
+      "AccountId": "439114917687",
+      "SpinnakerAccountName": "test-5",
+      "Regions": [
+        "us-west-2",
+        "us-west-1",
+        "us-east-1"
+      ],
+      "SpinnakerStatus": "ACTIVE | SUSPENDED",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
+      "SpinnakerProviders": [
+        "lambda"
+      ],
+      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     }
   ],
   "Pagination": {}
