@@ -486,7 +486,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -500,7 +500,7 @@
       "SpinnakerStatus": "ACTIVE",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -515,7 +515,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -528,7 +528,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -541,7 +541,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -554,7 +554,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -567,7 +567,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -580,7 +580,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -593,7 +593,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -606,7 +606,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -619,7 +619,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -632,7 +632,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -645,7 +645,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -658,7 +658,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -671,7 +671,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -684,7 +684,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -697,7 +697,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -710,7 +710,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -724,7 +724,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -738,7 +738,7 @@
       "SpinnakerStatus": "ACTIVE",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -753,7 +753,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -766,7 +766,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -779,7 +779,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -792,7 +792,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -805,7 +805,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -818,7 +818,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -831,7 +831,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -844,7 +844,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -857,7 +857,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -870,7 +870,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -883,7 +883,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -896,7 +896,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -909,7 +909,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -922,7 +922,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -935,7 +935,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -948,7 +948,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -962,7 +962,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -976,7 +976,7 @@
       "SpinnakerStatus": "ACTIVE",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -991,7 +991,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1004,7 +1004,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1017,7 +1017,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1030,7 +1030,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1043,7 +1043,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1056,7 +1056,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1069,7 +1069,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1082,7 +1082,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1095,7 +1095,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1108,7 +1108,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1121,7 +1121,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1134,7 +1134,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1147,7 +1147,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1160,7 +1160,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1173,7 +1173,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1186,7 +1186,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },{
@@ -1199,7 +1199,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1213,7 +1213,7 @@
       "SpinnakerStatus": "ACTIVE",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1228,7 +1228,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1241,7 +1241,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1254,7 +1254,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1267,7 +1267,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1280,7 +1280,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1293,7 +1293,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1306,7 +1306,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1319,7 +1319,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1332,7 +1332,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1345,7 +1345,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1358,7 +1358,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1371,7 +1371,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1384,7 +1384,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1397,7 +1397,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1410,7 +1410,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },
@@ -1423,7 +1423,7 @@
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
       "SpinnakerProviders": [
-        "ecs", "lambda"
+        "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     }
