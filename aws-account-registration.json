@@ -478,13 +478,13 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-3",
+      "SpinnakerAccountName": "test-hello-3",
       "Regions": [
         "us-west-2",
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -492,13 +492,13 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-4",
+      "SpinnakerAccountName": "test-hello-4",
       "Regions": [
         "us-west-2",
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -506,14 +506,14 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-5",
+      "SpinnakerAccountName": "test-hello-5",
       "Regions": [
         "us-west-2",
         "us-west-1",
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -521,12 +521,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-6",
+      "SpinnakerAccountName": "test-hello-6",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -534,12 +534,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-7",
+      "SpinnakerAccountName": "test-hello-7",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -547,12 +547,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-8",
+      "SpinnakerAccountName": "test-hello-8",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -560,12 +560,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-9",
+      "SpinnakerAccountName": "test-hello-9",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -573,12 +573,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-10",
+      "SpinnakerAccountName": "test-hello-10",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -586,12 +586,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-11",
+      "SpinnakerAccountName": "test-hello-11",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -599,12 +599,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-12",
+      "SpinnakerAccountName": "test-hello-12",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -612,12 +612,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-13",
+      "SpinnakerAccountName": "test-hello-13",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -625,12 +625,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-14",
+      "SpinnakerAccountName": "test-hello-14",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -638,12 +638,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-15",
+      "SpinnakerAccountName": "test-hello-15",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -651,12 +651,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-16",
+      "SpinnakerAccountName": "test-hello-16",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -664,12 +664,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-17",
+      "SpinnakerAccountName": "test-hello-17",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -677,12 +677,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-18",
+      "SpinnakerAccountName": "test-hello-18",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -690,12 +690,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-19",
+      "SpinnakerAccountName": "test-hello-19",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -703,12 +703,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-20",
+      "SpinnakerAccountName": "test-hello-20",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs"
       ],
@@ -716,13 +716,13 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda3",
+      "SpinnakerAccountName": "test-hello-lambda3",
       "Regions": [
         "us-west-2",
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -730,13 +730,13 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda4",
+      "SpinnakerAccountName": "test-hello-lambda4",
       "Regions": [
         "us-west-2",
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -744,14 +744,14 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda5",
+      "SpinnakerAccountName": "test-hello-lambda5",
       "Regions": [
         "us-west-2",
         "us-west-1",
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -759,12 +759,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda6",
+      "SpinnakerAccountName": "test-hello-lambda6",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -772,12 +772,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda7",
+      "SpinnakerAccountName": "test-hello-lambda7",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -785,12 +785,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda8",
+      "SpinnakerAccountName": "test-hello-lambda8",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -798,12 +798,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda9",
+      "SpinnakerAccountName": "test-hello-lambda9",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -811,12 +811,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda10",
+      "SpinnakerAccountName": "test-hello-lambda10",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -824,12 +824,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda11",
+      "SpinnakerAccountName": "test-hello-lambda11",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -837,12 +837,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda12",
+      "SpinnakerAccountName": "test-hello-lambda12",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -850,12 +850,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda13",
+      "SpinnakerAccountName": "test-hello-lambda13",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -863,12 +863,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda14",
+      "SpinnakerAccountName": "test-hello-lambda14",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -876,12 +876,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda15",
+      "SpinnakerAccountName": "test-hello-lambda15",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -889,12 +889,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda16",
+      "SpinnakerAccountName": "test-hello-lambda16",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -902,12 +902,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda17",
+      "SpinnakerAccountName": "test-hello-lambda17",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -915,12 +915,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda18",
+      "SpinnakerAccountName": "test-hello-lambda18",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -928,12 +928,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda19",
+      "SpinnakerAccountName": "test-hello-lambda19",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -941,12 +941,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda20",
+      "SpinnakerAccountName": "test-hello-lambda20",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -954,13 +954,13 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-3",
+      "SpinnakerAccountName": "test-hello-lambda-more-3",
       "Regions": [
         "us-west-2",
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -968,13 +968,13 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-4",
+      "SpinnakerAccountName": "test-hello-lambda-more-4",
       "Regions": [
         "us-west-2",
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -982,14 +982,14 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-5",
+      "SpinnakerAccountName": "test-hello-lambda-more-5",
       "Regions": [
         "us-west-2",
         "us-west-1",
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -997,12 +997,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-6",
+      "SpinnakerAccountName": "test-hello-lambda-more-6",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1010,12 +1010,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-7",
+      "SpinnakerAccountName": "test-hello-lambda-more-7",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1023,12 +1023,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-8",
+      "SpinnakerAccountName": "test-hello-lambda-more-8",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1036,12 +1036,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-9",
+      "SpinnakerAccountName": "test-hello-lambda-more-9",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1049,12 +1049,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-10",
+      "SpinnakerAccountName": "test-hello-lambda-more-10",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1062,12 +1062,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-11",
+      "SpinnakerAccountName": "test-hello-lambda-more-11",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1075,12 +1075,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-12",
+      "SpinnakerAccountName": "test-hello-lambda-more-12",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1088,12 +1088,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-13",
+      "SpinnakerAccountName": "test-hello-lambda-more-13",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1101,12 +1101,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-14",
+      "SpinnakerAccountName": "test-hello-lambda-more-14",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1114,12 +1114,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-15",
+      "SpinnakerAccountName": "test-hello-lambda-more-15",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1127,12 +1127,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-16",
+      "SpinnakerAccountName": "test-hello-lambda-more-16",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1140,12 +1140,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-17",
+      "SpinnakerAccountName": "test-hello-lambda-more-17",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1153,12 +1153,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-18",
+      "SpinnakerAccountName": "test-hello-lambda-more-18",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1166,12 +1166,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-19",
+      "SpinnakerAccountName": "test-hello-lambda-more-19",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1179,25 +1179,25 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-20",
+      "SpinnakerAccountName": "test-hello-lambda-more-20",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
       "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
     },{
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-3",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-3",
       "Regions": [
         "us-west-2",
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1205,13 +1205,13 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-4",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-4",
       "Regions": [
         "us-west-2",
         "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1219,14 +1219,14 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-5",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-5",
       "Regions": [
         "us-west-2",
         "us-west-1",
         "us-east-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1234,12 +1234,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-6",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-6",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1247,12 +1247,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-7",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-7",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1260,12 +1260,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-8",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-8",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1273,12 +1273,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-9",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-9",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1286,12 +1286,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-10",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-10",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1299,12 +1299,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-11",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-11",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1312,12 +1312,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-12",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-12",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1325,12 +1325,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-13",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-13",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1338,12 +1338,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-14",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-14",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1351,12 +1351,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-15",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-15",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1364,12 +1364,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-16",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-16",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1377,12 +1377,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-17",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-17",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1390,12 +1390,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-18",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-18",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1403,12 +1403,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-19",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-19",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
@@ -1416,12 +1416,12 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-ecs-lambda-more-test-20",
+      "SpinnakerAccountName": "test-hello-lambda-more-test-20",
       "Regions": [
         "us-west-2"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/ps_ecs_execution_role",
+      "SpinnakerAssumeRole": "role/ps_lambda_execution_role",
       "SpinnakerProviders": [
         "ecs", "lambda"
       ],
