@@ -16,20 +16,6 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-4",
-      "Regions": [
-        "us-west-2",
-        "us-west-1"
-      ],
-      "SpinnakerStatus": "ACTIVE",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
       "SpinnakerAccountName": "test-5",
       "Regions": [
         "us-west-2",
@@ -191,59 +177,6 @@
       "SpinnakerAccountName": "test-17",
       "Regions": [
         "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-18",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-19",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-20",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-lambda-3",
-      "Regions": [
-        "us-west-2",
-        "us-west-1"
       ],
       "SpinnakerStatus": "ACTIVE | SUSPENDED",
       "SpinnakerAssumeRole": "role/spinnakerManaged",
@@ -586,19 +519,6 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-11",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
       "SpinnakerAccountName": "test-hello-12",
       "Regions": [
         "us-west-2"
@@ -824,97 +744,6 @@
     },
     {
       "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda11",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda12",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda13",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda14",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda15",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda16",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda17",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
       "SpinnakerAccountName": "test-hello-lambda18",
       "Regions": [
         "us-west-2"
@@ -1102,32 +931,6 @@
     {
       "AccountId": "439114917687",
       "SpinnakerAccountName": "test-hello-lambda-more-14",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda-more-15",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda-more-16",
       "Regions": [
         "us-west-2"
       ],
@@ -1365,45 +1168,6 @@
     {
       "AccountId": "439114917687",
       "SpinnakerAccountName": "test-hello-lambda-more-test-16",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda-more-test-17",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda-more-test-18",
-      "Regions": [
-        "us-west-2"
-      ],
-      "SpinnakerStatus": "ACTIVE | SUSPENDED",
-      "SpinnakerAssumeRole": "role/spinnakerManaged",
-      "SpinnakerProviders": [
-        "lambda"
-      ],
-      "UpdatedAt": "2020-08-27T16:52:59.026696+00:00"
-    },
-    {
-      "AccountId": "439114917687",
-      "SpinnakerAccountName": "test-hello-lambda-more-test-19",
       "Regions": [
         "us-west-2"
       ],
