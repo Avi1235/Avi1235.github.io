@@ -1,5 +1,12 @@
 {
-    "kty": "RSA",
-    "e": "AQAB",
-    "n": "qYGuUrSMzeSwvARkqQ9vB25aWShDsSA2gxFJypLVZ6Ne9GctgdMpXGrAlMgHYc7SxWSffnDuDFqIq-Odbl6AmImJX4dQ3zTQw3_cYuZYwBP8VyC-pNRVaFbSVUTMB6Fguu9lHFgl3ff1lb_tBsxhlPQhl2F3a5GdepIz9A_I3jMIUKPz4IkID0ff5oXJ83G0yctWIJkFSbpb3tKAhzuH4OU_lNRMVg7blqRHTYnmZ2vBsSEbsSQ1idTb2mlg9fww3_X_5hQ7jRft0jqrjchB0qnaodmM6M2lObv-lFc_v2k8dLlng8SmbVC_Q1ep8SWGD8o90bzUjZFA795HCkjz7Q"
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "alg": "RS384",
+      "kid": "epic-key-1",
+      "e": "AQAB",
+      "n": "qYGuUrSMzeSwvARkqQ9vB25aWShDsSA2gxFJypLVZ6Ne9GctgdMpXGrAlMgHYc7SxWSffnDuDFqIq-Odbl6AmImJX4dQ3zTQw3_cYuZYwBP8VyC-pNRVaFbSVUTMB6Fguu9lHFgl3ff1lb_tBsxhlPQhl2F3a5GdepIz9A_I3jMIUKPz4IkID0ff5oXJ83G0yctWIJkFSbpb3tKAhzuH4OU_lNRMVg7blqRHTYnmZ2vBsSEbsSQ1idTb2mlg9fww3_X_5hQ7jRft0jqrjchB0qnaodmM6M2lObv-lFc_v2k8dLlng8SmbVC_Q1ep8SWGD8o90bzUjZFA795HCkjz7Q"
+    }
+  ]
 }
